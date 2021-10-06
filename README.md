@@ -4,23 +4,18 @@ Solanum toberosum "Diacol capiro" HiFi genome assembly
 
 
 Prerequisites
-=
+-
 
-https://github.com/marbl/canu
+- [HiCanu](https://github.com/marbl/canu) v2.1
 
-https://github.com/fenderglass/Flye
+- https://github.com/fenderglass/Flye
 
-https://github.com/chhylp123/hifiasm
+- https://github.com/chhylp123/hifiasm
 
-https://github.com/PacificBiosciences/pbipa
+- https://github.com/PacificBiosciences/pbipa
 
-https://github.com/tangerzhang/ALLHiC
+- https://github.com/tangerzhang/ALLHiC
 
-
-Data availability
-=
-Descarga de datos? 
-Ubicacion NCBI
 
 
 
