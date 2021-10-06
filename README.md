@@ -8,14 +8,13 @@ Prerequisites
 
 - [HiCanu](https://github.com/marbl/canu) v2.1
 
-- https://github.com/fenderglass/Flye
+- [Flye assembler](https://github.com/fenderglass/Flye) v2.9
 
-- https://github.com/chhylp123/hifiasm
+- [Hifiasm](https://github.com/chhylp123/hifiasm) v0.12-r304
 
-- https://github.com/PacificBiosciences/pbipa
+- [IPA HiFi Genome Assembler](https://github.com/PacificBiosciences/pbipa) v1.3.2 
 
-- https://github.com/tangerzhang/ALLHiC
-
+- [ALLHiC](https://github.com/tangerzhang/ALLHiC)
 
 
 
