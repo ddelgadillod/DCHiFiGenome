@@ -9,7 +9,7 @@ flye --pacbio-hifi $READSPATH/m64041_hifi_reads.fastq.gz --out-dir Flye_hfPotAss
 
 #HiCanu Assembly
 
-canu -p asm -d CanuhfPotAssem_hptyps genomeSize=700m -pacbio-hifi $READSPATH/m64041_hifi_reads.fastq.gz useGrid=false "batOptions=-dg 3 -db 3 -dr 1 -ca 500 -cp 50" 
+canu -p asm -d CanuhfPotAssem_hptyps genomeSize=2800m -pacbio-hifi $READSPATH/m64041_hifi_reads.fastq.gz useGrid=false "batOptions=-dg 3 -db 3 -dr 1 -ca 500 -cp 50" 
 
 
 #Hifi ASM Assembly
