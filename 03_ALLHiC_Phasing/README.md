@@ -3,11 +3,8 @@ ALLHiC Phasing & Scaffolding
 
 Phasing and  Scaffolding was performed in several Strategies, using ALLHiC pipeline: 
 
-### Strategy 0
-Phasing and scaffolding with RH89-039-16 v3 potato assembly as reference, Canu draft assembly v1 and raw HiC reads.
-
-### Strategy 1
-Phasing and scaffolding with RH89-039-16 v3 potato assembly as reference, Canu draft assembly v2(corrected with raw HiC reads) and raw HiC reads.
+- Strategy 0: Phasing and scaffolding with RH89-039-16 v3 potato assembly as reference, Canu draft assembly v1 and raw HiC reads.
+- Strategy 1: Phasing and scaffolding with RH89-039-16 v3 potato assembly as reference, Canu draft assembly v2(corrected with raw HiC reads) and raw HiC reads.
 
 ### Strategy 2
 Phasing and scaffolding with RH89-039-16 v3 potato assembly as reference, Canu draft assembly v2(corrected with raw HiC reads) and HiC valid contacts.
