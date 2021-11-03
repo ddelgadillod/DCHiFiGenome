@@ -1,7 +1,12 @@
-ALLHiC Phasing & Scaffolding
+ALLHiC Scaffolding
 =
 
-Phasing and  Scaffolding was performed in several Strategies, using ALLHiC pipeline: 
+We used ALLHiC pipeline for the scaffolding, we used several strategies by varing the input data and reference genome used for the synteny:
+
+| Strategy  | Reference genome | Initial assembly | Hi-C reads |
+| ------------- | ------------- | ------------- | ------------- |
+| st0  | RH89-039-16 v3   | Canu draft assembly v1 | raw HiC reads |
+| st1  | RH89-039-16 v3   | Canu draft assembly v2(corrected with raw HiC reads) | raw HiC reads|
 
 - Strategy 0: 
     Reference genome for sytenty -RH89-039-16 v3 potato assembly as reference, Input data: Canu draft assembly v1 and raw HiC reads.
